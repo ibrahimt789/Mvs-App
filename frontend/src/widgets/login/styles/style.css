@@ -1,0 +1,25 @@
+.login-container{
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    position: relative;
+    top: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f2f2f2;
+}
+
+.login-container input {
+    background-color: #ffffff !important;
+    padding: 18px 7px;
+}
+.inputfield-container{
+    margin-bottom: 16px;
+}
+
+.is-pulled-right{
+    width: 100%;
+    padding: 16px 10px;
+}
